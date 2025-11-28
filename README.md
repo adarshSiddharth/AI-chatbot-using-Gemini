@@ -1,1 +1,1 @@
-# AI-chatbot-using-Gemini
+# AI-chatbot-using-GeminiAPI
